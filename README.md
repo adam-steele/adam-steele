@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ==============
 
 ## About Me 
-I love the fact basically all problems could use code to solve them or help solve them, if you can think it you can make it. 
+I love the fact (nearly) all problems could use code to solve them or help solve them, if you can think it you can make it. 
 🔭 I am really excited to be looking for my first role in coding and continuing learning skills as well as learning new technologies. 
 
 
