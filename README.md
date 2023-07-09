@@ -29,6 +29,10 @@ I love the fact (nearly) all problems could use code to solve them or help solve
 
 ## 📫 How to reach me
 
+<a href="https://www.linkedin.com/in/adam-charles-steele/">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adam Steele LinkedIn" height="30" width="40" style="max-width: 100%;">
+</a>
+
 <details>
 <summary> My Coding journey so far </summary>
 <br>
