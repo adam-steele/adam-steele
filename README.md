@@ -29,17 +29,19 @@ I love the fact (nearly) all problems could use code to solve them or help solve
 
 ```JavaScript
 const adamSteele = {
+
   availableForHire: true,
-  education: "Le Wagon Paris, a 6-month part-time intensive coding bootcamp",
+  education: "Le Wagon London, a 6-month part-time BCS accredited coding bootcamp",
   otherAlias: "Junior Full Stack Developer",
   codesIn: ["HTML", "CSS", "Ruby" "Ruby on Rails", "JavaScript ES6", "SQL"],
   currentlylearning: ["React", "Node", "Express", "Typescript"],
   toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", ],
+
   pastExperience: [
     {
-      company : "Reward Gateway",
-      post : "Customer Success Manager",
-      duration : "2 years"
+      company: "Reward Gateway",
+      post: "Customer Success Manager",
+      duration: "2 years"
     },
   ],
 }
