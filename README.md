@@ -64,7 +64,7 @@ const adamSteele = {
 <details>
 <summary> My Coding journey so far </summary>
 <br>
-I started my coding journey learning SQL in a role to help me build tools to make my day job easier. This ignited in me a love for coding as a great problem-solving tool. I expanded this during lockdown starting with the classic "Hello World!" in HMTL and CSS, adding in other things over time working up to building things with the MERN stack. I recently undertook an intensive 6-month BCS accredited Le Wagon bootcamp which not only taught me the new technologies of Ruby and the Rails Framework but also a lot of the other skills in coding 
+I started my coding journey learning SQL in a role to help me build tools to make my day job easier. This ignited in me a love for coding as a great problem-solving tool. I expanded this during lockdown starting with HMTL and CSS, adding in other languages and tools over time working up to building things with the MERN stack. I recently undertook an intensive 6-month BCS accredited Le Wagon bootcamp which not only taught me the new technologies of Ruby and the Rails Framework but also a lot of the other skills in coding 
 </details>
 
   
