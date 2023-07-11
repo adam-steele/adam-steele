@@ -20,8 +20,13 @@ Here are some ideas to get you started:
 
 ## About Me 
 I love the fact (nearly) all problems could use code to solve them or help solve them, if you can think it you can make it. 
-🔭 I am really excited to be looking for my first role in coding and continuing learning skills and new technologies. 
+🔭 I am really excited to be looking for my first role in coding and continuing to learn skills and new technologies. 
+I recently undertook an intensive 6-month BCS accredited Le Wagon bootcamp. This not only taught me the new technologies of Ruby and the Rails Framework but also a lot of other skills and tools.
 
+## LeWagon Projects
+<a href="www.jammwith.me"/> 🎸 Matching app for finding Likeminded Musicians</a>
+<br>
+<a href="https://bandspaces.herokuapp.com/">🏠 Airbnb Clone</a>
 
 ## Languages and Tools I have worked with 
 
@@ -64,7 +69,7 @@ const adamSteele = {
 <details>
 <summary> My Coding journey so far </summary>
 <br>
-I started my coding journey learning SQL in a role to help me build tools to make my day job easier. This ignited in me a love for coding as a great problem-solving tool. I expanded this during lockdown starting with HMTL and CSS, adding in other languages and tools over time working up to building things with the MERN stack. I recently undertook an intensive 6-month BCS accredited Le Wagon bootcamp which not only taught me the new technologies of Ruby and the Rails Framework but also a lot of the other skills in coding 
+I started my coding journey learning SQL in a role to help me build tools to make my day job easier. This ignited in me a love for coding as a great problem-solving tool. I expanded this during lockdown starting with HMTL and CSS, adding in other languages and tools over time working up to building things with the MERN stack. I have just completed the next step on my journey undertaking an intensive 6-month BCS accredited bootcamp at le Wagon which expanded on my existing knowledge with new technologies. I learned Ruby and the Rails Framework but also a lot of the other technologies and how to work together on a coding project. I am excited about the next stage of my journey, as I look to become a full-stack developer!
 </details>
 
   
