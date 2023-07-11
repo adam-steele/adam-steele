@@ -24,7 +24,7 @@ I love the fact (nearly) all problems could use code to solve them or help solve
 I recently undertook an intensive 6-month BCS accredited Le Wagon bootcamp. This not only taught me the new technologies of Ruby and the Rails Framework but also a lot of other skills and tools.
 
 ## LeWagon Projects
-<a href="www.jammwith.me"/> 🎸 Matching app for finding Likeminded Musicians</a>
+<a href="https://www.jammwith.me"/> 🎸 Matching app for finding Likeminded Musicians</a>
 <br>
 <a href="https://bandspaces.herokuapp.com/">🏠 Airbnb Clone</a>
 
