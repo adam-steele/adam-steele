@@ -23,10 +23,12 @@ I love the fact (nearly) all problems could use code to solve them or help solve
 🔭 I am really excited to be looking for my first role in coding and continuing to learn skills and new technologies. 
 I undertook an intensive 6-month BCS accredited Le Wagon bootcamp. This not only taught me Ruby and the Rails Framework but also a lot of other skills and tools.
 
-## LeWagon Projects
+## Projects
 <a href="https://www.jammwith.me"/> 🎸 Matching app for finding Likeminded Musicians</a>
 <br>
 <a href="https://bandspaces.herokuapp.com/">🏠 Airbnb Clone</a>
+<br>
+<a href="https://adam-steele.github.io/scrabdle/">🧩 Scrabdle </a>
 
 ## 🌱 I’m currently learning
 - Typescript
@@ -79,7 +81,11 @@ const adamSteele = {
 <details>
 <summary> My Coding journey so far </summary>
 <br>
-I started my coding journey learning SQL in a role to help me build tools to make my day job easier. This ignited in me a love for coding as a great problem-solving tool. I expanded this during lockdown starting with HMTL and CSS, adding in other languages and tools over time working up to building things with the MERN stack. I have just completed the next step on my journey undertaking an intensive 6-month BCS accredited bootcamp at le Wagon which expanded on my existing knowledge with new technologies. I learned Ruby and the Rails Framework but also a lot of the other technologies and how to work together on a coding project. I am excited about the next stage of my journey, as I look to become a full-stack developer!
+I started my coding journey learning SQL in a role to help me build tools to make my day job easier. This ignited in me a love for coding as a great problem-solving tool.
+I expanded this during lockdown starting with HMTL and CSS, adding in other languages and tools over time working up to building things with the MERN stack. I then completed the next step on my journey undertaking an intensive 6-month BCS accredited bootcamp at le Wagon which expanded on my existing knowledge with new technologies.
+I learned Ruby and the Rails Framework but also a lot of the other technologies and how to work together on a coding project.
+I am excited about the next stage of my journey, as I look to become a developer!
+I am constantly learning and practicing new things, my latest project is a word game to learn more about Typescript and React <a href="https://adam-steele.github.io/scrabdle/"> Scrabdle </a>
 </details>
 
   
