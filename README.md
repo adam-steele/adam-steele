@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## About Me 
 I love the fact (nearly) all problems could use code to solve them or help solve them, if you can think it you can make it. 
 🔭 I am really excited to be looking for my first role in coding and continuing to learn skills and new technologies. 
-I recently undertook an intensive 6-month BCS accredited Le Wagon bootcamp. This not only taught me Ruby and the Rails Framework but also a lot of other skills and tools.
+I undertook an intensive 6-month BCS accredited Le Wagon bootcamp. This not only taught me Ruby and the Rails Framework but also a lot of other skills and tools.
 
 ## LeWagon Projects
 <a href="https://www.jammwith.me"/> 🎸 Matching app for finding Likeminded Musicians</a>
